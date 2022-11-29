@@ -1,0 +1,24 @@
+@import url('https://fonts.googleapis.com/css2?family=PT+Serif&display=swap'); 
+form.Note{
+    position: relative;
+    width:500px;
+    margin:30px auto 20px auto;
+    background-color:white;
+    padding: 40px;
+    border-radius: 7px;
+}
+form.Note input,
+form.Note textarea{
+    width:80%;
+    padding: 4px;
+    font-size:small;
+    outline: none;
+    font-family:'PT Serif', serif;
+}
+font.Note button{
+    position: absolute;
+    background: black;
+    color: aliceblue;
+    cursor: pointer;
+    border-radius: 50%;
+}

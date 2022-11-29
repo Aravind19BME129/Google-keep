@@ -1,0 +1,21 @@
+@import url('https://fonts.googleapis.com/css2?family=PT+Serif&display=swap'); 
+header{
+    background-color:rgba(0, 0, 0, 0.76);
+    margin: auto, 100px ;
+    padding: 16px 32px;
+}
+header h1 {
+    color: aliceblue;
+    font-family: 'PT Serif', serif;
+    font-weight: 100;
+}
+header h2{
+
+    position: relative;
+    right: -36cm;
+    top: -50px;
+    color: aliceblue;
+    font-family: 'PT Serif', serif;
+    font-weight: 100;
+
+}
